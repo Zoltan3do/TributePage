@@ -1,0 +1,54 @@
+#image{
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+#img-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-inline-start: 0;
+    margin-block: 0;
+    height: 100%;
+}
+
+#img-caption{
+    margin-top:3px
+}
+
+header{
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+main{
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+#biografia{
+    text-align: center;
+    width: 500px;
+    margin: 0 auto;
+}
+
+#citazione{
+    font-family: cursive;
+    font-size: small;
+    font-weight: 100;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: crimson;
+}
+
+a:active{
+    color:red
+}
+
